@@ -1,1 +1,0 @@
-return json_encode( global.__json_ini_map );
