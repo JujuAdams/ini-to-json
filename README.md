@@ -2,6 +2,6 @@
 
 <p align="center"><a href="https://github.com/JujuAdams/ini-to-json/releases/tag/1.1.0">Download .yymp here</a></p>
 
-A no-code-required JSON replacement for the native GameMaker .ini handling functions.
+A JSON+buffer replacement for the native GameMaker .ini handling functions.
 
 Import the .yymp package (see above) and that's it! All `ini_*` function calls will be replaced with JSON equivalents on compile.
